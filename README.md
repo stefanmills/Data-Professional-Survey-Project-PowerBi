@@ -4,7 +4,7 @@
 
 ## Background
 
-This portfolio project focuses on analyzing a survey taken by data professionals, aiming to gather comprehensive information about their roles, career paths, salary, industry, programming language preferences, job satisfaction, career challenges, job preferences, demographic information, and educational background. The survey respondents were primarily from platforms X and LinkedIn. The data for this project belongs to Alex Goldberg.
+This portfolio project focuses on analyzing a survey taken by data professionals, aiming to gather comprehensive information about their roles, career paths, salary, industry, programming language preferences, job satisfaction, career challenges, job preferences, demographic information, and educational background. The survey respondents were primarily from platforms X and LinkedIn..
 
 The data cleaning and visualization for this project were performed using Power BI.
 
